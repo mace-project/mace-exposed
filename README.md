@@ -1,10 +1,2 @@
 # mace-exposed
-json
-{
-  "username": "admin_db",
-  "password": "MiSuperPasswordSecreto123!",
-  "engine": "postgres",
-  "host": "://amazonaws.com",
-  "port": 5432,
-  "dbname": "produccion"
-}
+gg_test_api_key_1234567890abcdef_abcdef
