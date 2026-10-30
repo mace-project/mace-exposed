@@ -1,3 +1,10 @@
 # mace-exposed
-aws_access_key_id = AKIAIOSFODNN7EXAPMLE
-aws_access_key_id = AKIAIOSF1DNN7EXAPMLE
+json
+{
+  "username": "admin_db",
+  "password": "MiSuperPasswordSecreto123!",
+  "engine": "postgres",
+  "host": "://amazonaws.com",
+  "port": 5432,
+  "dbname": "produccion"
+}
