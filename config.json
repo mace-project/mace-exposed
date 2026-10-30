@@ -1,4 +1,15 @@
 {
     "AWS_ACCESS_KEY_ID": "AKIA3V7B4X9M2L7Q6W8P",
     "AWS_SECRET_ACCESS_KEY": "gX9+rK3mFv7zN2pQ9wL5x8jY4tBcDeFgHiJkLmNo"
+    
+}
+
+AWS_SECRET_ACCESS_KEY=bX9+qK3mFv7zN2pQ9wL5x8jY4tBcDeFgHiJkLmNo
+DATABASE_URL=postgresql://db_user_admin:p@ssw0rd_Str0ng_92!@://amazonaws.com
+MYSQL_CONNECTION=mysql://root:kX9_mP2_vL7_zQ5x8@127.0.0.1:3306/main_schema
+AZURE_CLIENT_SECRET=3x~7Q~wL5x8jY4tBcDeFgHiJkLmNoPqRsTuVwXyZ
+{
+  "AZURE_CLIENT_ID": "4a8b2c6d-1e3f-4a5b-6c7d-8e9f0a1b2c3d",
+  "AZURE_TENANT_ID": "9f8e7d6c-5b4a-3f2e-1d0c-9b8a7f6e5d4c",
+  "AZURE_CLIENT_SECRET": "7z~8Q~mL4x9jY5tBcDeFgHiJkLmNoPqRsTuVwXyA"
 }
