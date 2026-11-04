@@ -1,4 +1,4 @@
 {
-  "prex_api_key": "mace-tests/api-key-rotation",
-  "prex_api_secret_ley": "4FKKX6COYG67RAEL4FKKX6COYG67RAEL4FKKX6COYG67RAEL"
+  "AWS_ACCESS_KEY_ID": "mace-tests/api-key-rotation",
+  "AWS_SECRET_ACCESS_KEY": "gnAfcCVdBZASW2e3UTNoF8nLs3dmC9ZdC2o1hfjN
 }
